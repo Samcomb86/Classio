@@ -1,0 +1,6 @@
+{
+  "name": "Class Flow",
+  "description": "Smart timetable browser and schedule organizer for students and faculty of Thal University Bhakkar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
